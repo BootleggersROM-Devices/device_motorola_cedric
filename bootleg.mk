@@ -48,6 +48,6 @@ BUILD_FINGERPRINT := motorola/cedric/cedric:8.1/OPPS28.85-13-2/2:user/release-ke
 DEVICE_MAINTAINERS := "Henrique Tc"(HtcTech)"
 BOOTLEGGERS_BUILD_TYPE := Shishufied
 
-
+TARGET_PICK_BOOTANIMATION := 0,1,3
 
 
